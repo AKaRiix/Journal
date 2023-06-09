@@ -177,7 +177,7 @@ overflow-x: hidden; */
 }
 .slide-text {
   position: absolute;
-  color: #ffffff;
+  color: #000000;
   font-size: 15px;
   padding: 15px;
   bottom: 15px;
